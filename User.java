@@ -1,4 +1,4 @@
-package M3_Activity4;
+package M3_GroupProjectList;
 
 import java.util.ArrayList;
 import java.util.List;
